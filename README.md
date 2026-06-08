@@ -8,15 +8,15 @@ Commits create a structured history of changes, allowing developers to track pro
 
 Skills Demonstrated
 
-✔ Refactored code using commits to document improvements.
+Refactored code using commits to document improvements.
 
-✔ Fixed mistakes by creating new commits and maintaining a clear project history.
+Fixed mistakes by creating new commits and maintaining a clear project history.
 
-✔ Demonstrated how to undo changes while preserving work:
+Demonstrated how to undo changes while preserving work:
 
 git reset --soft HEAD~1
 
-✔ Demonstrated how to safely reverse changes using:
+Demonstrated how to safely reverse changes using:
 
 git revert <commit-hash>
 Git Commands Used
